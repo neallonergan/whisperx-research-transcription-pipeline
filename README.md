@@ -4,8 +4,7 @@ An end-to-end transcription and speaker diarization pipeline built
 for qualitative researchers working with interview audio. Developed 
 and maintained at the **Scrolling Society Lab (sLab)** at McGill 
 University as part of a multidisciplinary research program studying 
-digital media behavior on TikTok and Instagram Reels, funded by the 
-Social Sciences and Humanities Research Council of Canada (SSHRC).
+digital media behavior on TikTok and Instagram Reels.
 
 This pipeline takes raw interview audio files and produces clean, 
 speaker-labeled transcripts ready for qualitative coding in MAXQDA 
