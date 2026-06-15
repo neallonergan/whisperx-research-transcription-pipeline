@@ -391,10 +391,10 @@ it will hallucinate speaker splits within single turns.
 
 ### Mac setup
 Diarization configuration on Mac requires different environment 
-setup than Windows.
-- Visit https://github.com/ggml-org/whisper.cpp to download a
-  Mac-compatible whisper or find an alternative option (there
-  are many on GitHub)!
+setup than Windows. 
+See [`docs/TRANSCRIPTION_GUIDE.pdf`](./docs/TRANSCRIPTION_GUIDE.pdf)
+ Mac Workflow OR visit https://github.com/ggml-org/whisper.cpp to download a
+Mac-compatible whisper
 
 
 ---
