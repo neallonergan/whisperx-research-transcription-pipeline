@@ -391,12 +391,11 @@ it will hallucinate speaker splits within single turns.
 
 ### Mac setup
 Diarization configuration on Mac requires different environment 
-setup than Windows. Key differences:
-- Virtual environment activation uses `source whisperx-env/bin/activate` 
-  instead of the PowerShell command above
-- Some dependency versions differ — if you encounter errors, 
-  check the [WhisperX GitHub issues](https://github.com/m-bain/whisperX/issues) 
-  for Mac-specific solutions
+setup than Windows.
+- Visit https://github.com/ggml-org/whisper.cpp to download a
+  Mac-compatible whisper or find an alternative option (there
+  are many on GitHub)!
+
 
 ---
 
@@ -445,9 +444,7 @@ research workflow.
 ## Full Tutorial
 
 See [`docs/TRANSCRIPTION_GUIDE.pdf`](./docs/TRANSCRIPTION_GUIDE.pdf) 
-for the complete step-by-step walkthrough with screenshots, 
-including environment setup, troubleshooting, and file 
-management — written for non-technical research assistants.
+for the complete step-by-step walkthrough written for non-technical research assistants.
 
 ---
 
