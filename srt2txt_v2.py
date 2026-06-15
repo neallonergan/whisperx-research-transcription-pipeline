@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Convert a subtitles file into a transcript.
 
-Usage: srt2txt.py [-h] [--version]
+Usage: srt2txt_v2.py [-h] [--version]
        [-i FILE] [-o FILE]
        [--md]
 
