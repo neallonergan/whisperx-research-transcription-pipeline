@@ -216,7 +216,7 @@ files from a real research session showing all three stages.
 | `srt2txt_v2.py` | Python script: converts diarized `.srt` to readable transcript |
 | `transcribe-queue.ps1` | PowerShell script: batch-transcribes all files in AUDIOS folder |
 | `examples/` | Anonymized three-stage output from a real research session |
-| `docs/TRANSCRIPTION_GUIDE.pdf` | Full step-by-step tutorial with screenshots for non-technical users |
+| `docs/TRANSCRIPTION_GUIDE.pdf` | Full step-by-step tutorial for non-technical users |
 
 ---
 
