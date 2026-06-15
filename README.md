@@ -454,6 +454,6 @@ management — written for non-technical research assistants.
 ## Author
 
 **Neal Lonergan**  
-Mixed-Methods Research Lead, Scrolling Society Lab, McGill University  
+Mixed-Methods Research, Scrolling Society Lab, McGill University  
 NealLonergan@gmail.com  
 [GitHub](https://github.com/neallonergan)
